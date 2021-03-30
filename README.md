@@ -1,0 +1,2 @@
+# DHAI-PSL-Stylometrie-Lennon-McCartney
+The goal of this project is to explore authorship and attribution questions in the corpus of the Beatles songs, with a special focus on the Lennon vs McCartney debate. The idea is both to explore attribution on a per song basis, as well as possible shared authorship. For this, we will analyse linguistic features in the text of the songs, and perhaps in the musical score too. 
